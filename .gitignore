@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Local development settings
+.env
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# PDF files (may contain sensitive data)
+pdf/*.pdf 
